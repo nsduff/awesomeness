@@ -1,5 +1,8 @@
 .section {
-  background-image: url("/img/background.jpg");
-
+  background: pink;
   background-size: cover;
+}
+
+body {
+  background: blue;
 }
